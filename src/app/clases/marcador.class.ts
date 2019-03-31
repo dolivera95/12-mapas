@@ -1,0 +1,13 @@
+//export class Marcador{
+//  constructor(public lat: number, public lng: number){
+//
+//  }
+//}
+
+export class Marcador{
+  titulo = "Sin Titulo";
+  desc = "Sin Descripcion";
+  constructor(public lat: number, public lng: number){
+
+  }
+}
